@@ -1,0 +1,21 @@
+body {
+    background-color: #DADEEB;
+}
+
+img {
+    height: 30vh;
+    margin: 20px;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    color: #005a06;
+    font-size: 18px;
+}
+
+p, h1 {
+    margin-bottom: 30px;
+    color: #005a06;
+}
